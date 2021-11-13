@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pashkamelnyk
-- 👀 I’m interested in C#/.Net/Web services/Azure
-- 🌱 I’m currently learning C#/.Net/Web services/Azure
+- 👀 I’m interested in C#/.Net/Desktop/Web services/Azure
+- 🌱 I’m currently learning C#/.Net/Desktop/Web services/Azure
 - 💞️ I’m looking to collaborate on good project
 - 📫 How to reach me: pavlomelnyk@ukr.net
